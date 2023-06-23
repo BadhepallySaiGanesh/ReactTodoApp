@@ -1,0 +1,56 @@
+*{
+    background:gray;
+}
+.title{
+    font-weight: 690;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;  
+}
+.form{
+    /* margin-left: 50%; */
+}
+.input{
+    border-radius: 10px;
+    padding: 10px; 
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+}
+.button{
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    background:crimson;
+    font-weight: 900;
+}
+.china1{
+    background: yellow;
+    font-weight: 900;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 6px;
+}
+.china2{
+    background: green;
+    font-weight: 900;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 6px;
+}
+.china3{
+    background:red;
+    font-weight: 900;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 6px;
+}
+ /* ul~li.completed {
+    text-decoration: underline;
+  }
+   */
+  .todo{
+    margin-left: 30%;
+  }
+.input .value{
+    font-weight: 900;
+}
